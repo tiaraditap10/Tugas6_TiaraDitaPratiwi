@@ -1,0 +1,34 @@
+.design{
+	width: 350px;
+	margin: auto;
+	height: auto;
+	background: linear-gradient(50deg, #B000EA, pink) ;
+	padding: 15px;
+	border-radius: 10px;
+	box-shadow: 1px 5px 10px black
+}
+
+input[type=text]{
+	width: 80%;
+	height: 30px;
+}
+
+.opt{
+	width: 70px;
+	margin:5px;
+	border:none;
+	border-radius: 5px;
+	font-size: 15pt;
+	padding: 10px;
+}
+
+input[type=submit]{
+	background:white;
+	width: 40%;
+	height: 45px;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: auto;
+}
