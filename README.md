@@ -11,10 +11,9 @@ We can design the calculator as you wish. Just Try it!
 - Sublime Text 3
 
 ## Installation
-  ### Sublime Text 3
-  [Sublime Text 3](http://www.sublimetext.com/3)
+  ### [Sublime Text 3](http://www.sublimetext.com/3)
   ###### How To Install Sublime Text 3
-  1. Open Installer of Sublime Text 3. If you haven't downloaded it, please download Sublime Text 3 First [Here](http://www.sublimetext.com/3)
-  2. 
-  ### XAMPP
-  [XAMPP](https://www.apachefriends.org/download.html)
+  If you don't know how to install Sublime Text 3 after downloading, you can see this article [here](https://www.geeksforgeeks.org/how-to-install-sublime-text-3-in-windows/)
+  ### [XAMPP](https://www.apachefriends.org/download.html)
+  ###### How To Install XAMPP
+  If you don't know how to install XAMPP after downloading, you can see this article [here](https://www.geeksforgeeks.org/how-to-install-xampp-on-windows/)
