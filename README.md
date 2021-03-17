@@ -17,3 +17,28 @@ We can design the calculator as you wish. Just Try it!
   ### [XAMPP](https://www.apachefriends.org/download.html)
   ###### How To Install XAMPP
   If you don't know how to install XAMPP after downloading, you can see this article [here](https://www.geeksforgeeks.org/how-to-install-xampp-on-windows/)
+  
+## Explanation Programs
+```
+<?php
+	if(isset($_POST['hitung'])){
+		$bil1=$_POST['Bil1'];
+		$bil2=$_POST['Bil2'];
+		$operasi=$_POST['operasi'];
+		switch ($operasi) {
+			case 'tambah':
+				$hasil=$bil1+$bil2;
+			break;
+			
+			case 'kurang':
+				$hasil=$bil1-$bil2;
+			break;
+			case 'bagi':
+				$hasil=$bil1/$bil2;
+			break;
+			case 'kali':
+				$hasil=$bil1*$bil2;
+			break;
+		}
+	}
+  ```
